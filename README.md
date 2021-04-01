@@ -62,6 +62,14 @@ node <filename>
 
 ## TypeScript and Node Setup
 
+the setup with `npm init` is the same as with javascript, but it is recommended to add the typescript package.
+
+Now you can write your application.
+
+The important difference is that you have to transpile your typescript into javascript before starting any file.
+
+By default you find your transpiled files in the dist folder created after using the `tsc` command.
+
 ## JavaScript and Express Setup
 
 ## TypeScript and Express Setup
