@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/software-developer-org/typescript-migration/issues"
   },
-  "homepage": "https://github.com/software-developer-org/typescript-migration#readme"
+  "homepage": "https://github.com/software-developer-org/typescript-migration#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
 }
