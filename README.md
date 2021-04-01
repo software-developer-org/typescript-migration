@@ -45,6 +45,21 @@ Because of that it it safer to install it if you want to develop an application 
 
 ## JavaScript and Node Setup
 
+The first thing to do after isntalling nodejs is to create a package.json file.
+You can either do it manually or use the command:
+
+```bash
+npm init
+```
+
+Now you can create your application.
+
+With node you can also execute every javascript file locally with the command:
+
+```bash
+node <filename>
+```
+
 ## TypeScript and Node Setup
 
 ## JavaScript and Express Setup
